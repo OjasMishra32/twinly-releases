@@ -1,5 +1,5 @@
 {
-  "minSupportedVersion": "1.4.2",
+  "minSupportedVersion": "1.4.3",
   "killSwitch": false,
   "mode": "byok",
   "message": "",
