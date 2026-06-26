@@ -1,0 +1,7 @@
+{
+  "minSupportedVersion": "0.0.0",
+  "killSwitch": false,
+  "mode": "byok",
+  "message": "",
+  "updateURL": "https://github.com/OjasMishra32/twinly-releases/releases/latest"
+}
