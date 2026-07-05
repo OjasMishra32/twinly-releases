@@ -3,5 +3,5 @@
   "killSwitch": false,
   "mode": "byok",
   "message": "",
-  "updateURL": "https://github.com/OjasMishra32/twinly-releases/releases/latest"
+  "updateURL": "https://github.com/OjasMishra32/twinly-releases/releases/download/v1.0.3-win/Twinly-Setup.exe"
 }
