@@ -1,7 +1,8 @@
 {
-  "minSupportedVersion": "1.9.2",
+  "minSupportedVersion": "1.9.3",
   "killSwitch": false,
   "mode": "byok",
   "message": "",
-  "updateURL": "https://github.com/OjasMishra32/twinly-releases/releases/latest"
+  "updateURL": "https://github.com/OjasMishra32/twinly-releases/releases/latest",
+  "reauthAfter": 1783634923
 }
