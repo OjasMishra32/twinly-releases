@@ -1,8 +1,9 @@
 {
-  "minSupportedVersion": "1.9.3",
-  "killSwitch": false,
-  "mode": "byok",
-  "message": "",
-  "updateURL": "https://github.com/OjasMishra32/twinly-releases/releases/latest",
-  "reauthAfter": 1783634923
+  "killSwitch" : false,
+  "message" : "",
+  "minSupportedVersion" : "1.9.3",
+  "mode" : "byok",
+  "reauthAfter" : 1783634923,
+  "sig" : "D11vfHU3dc88UWFr6nw8ngIfnVboahX\/Xg5HaHsrh0j0vilYOCVU4ovSna05XRoNph44aKRUPYFdsVoaukMxCw==",
+  "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
