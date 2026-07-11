@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "",
-  "minSupportedVersion" : "1.9.3",
+  "message" : "Twinly 2.0 is here, with new and improved computer use and referrals. Update to keep going.",
+  "minSupportedVersion" : "2.0",
   "mode" : "byok",
   "reauthAfter" : 1783634923,
-  "sig" : "D11vfHU3dc88UWFr6nw8ngIfnVboahX\/Xg5HaHsrh0j0vilYOCVU4ovSna05XRoNph44aKRUPYFdsVoaukMxCw==",
+  "sig" : "VLm9OlELq\/sTo8Pi5gBqjS+YqBDxhyOkZghGonKsBH4kf16FwcJyhAeEvanPNBraVXgvj42wZa7K9XNozYC3AA==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
