@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 2.1.1 is here, with steadier calls in your own voice. Update to keep going.",
-  "minSupportedVersion" : "2.1.1",
+  "message" : "Twinly 2.1.2 is here. Your twin now plays Minecraft. Update to keep going.",
+  "minSupportedVersion" : "2.1.2",
   "mode" : "byok",
   "reauthAfter" : 1783634923,
-  "sig" : "R1m0eTWMCZszYGgVxIdW\/\/Qg29Tyr1HHm7GLbgeCE5RPZXphGyOZkJsUv3M5k7DMPGPotnRFAW9D\/64TvX6ZAg==",
+  "sig" : "B8QUSeUVjScRys\/tO\/o63BhHmrKMuY\/BNri9C7pn9fl39PR5xGX1Eu\/KrnKtdoy8DWQk03\/chDOy4RqZOxrcCA==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
