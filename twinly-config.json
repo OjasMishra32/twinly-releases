@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 2.1.3 is here, cleaner and quicker. Update to keep going.",
-  "minSupportedVersion" : "2.1.3",
+  "message" : "Twinly 2.2.2 is here. Your twin now has its own cursor, works a buried window, and clicks a lot more accurately. Update to keep going.",
+  "minSupportedVersion" : "2.2.2",
   "mode" : "byok",
   "reauthAfter" : 1783634923,
-  "sig" : "pjJmmfKHfOUJBZy2eeoSnlS6Qcm0mFxRV8dHWEMmf59vROsnUA0jJ\/kb\/3b7EU2v+bdwnyLXQCiBtC3j0PQzBQ==",
+  "sig" : "3w6AiiHxaH\/kwoTK1T6qX6cqjY092mWJJBfSz5c+GDmkr\/DkNXievwgA6J9fT1OT1sgGG3yuB8p53w71iQrzCw==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
