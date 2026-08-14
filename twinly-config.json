@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 3.0.2 is here. Calls answer in about half a second, subscribing works start to finish, and your twin writes in your own voice. Update to keep going.",
-  "minSupportedVersion" : "3.0.2",
+  "message" : "Twinly 3.0.3 is here. Answers come back in a fraction of the time, and you can text @twinly into any conversation to have your twin pick it up. Update to keep going.",
+  "minSupportedVersion" : "3.0.3",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "SDNLv5IlE2DAPhaMlikwD18f0HngjcmeSCXpnrn\/i9jEERjpGmdp0y\/EW6lQAKMPAX+x+nhysbnCSEE1AfzBBg==",
+  "sig" : "GuGdEq6MjxRoeZ8l1Y+OjnG3l\/5D2tYHz3WXgjDNqXbHIcYPIlj5OJ163DankPFRw5K6RygYpxhkFv7OqqI8Ag==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
