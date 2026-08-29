@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 3.1.1 is here, with nineteen new things your twin can do: it triages your inbox, finds what you promised people, preps you for meetings, defends your calendar, turns a screenshot into the thing done, and watches pages and prices so you stop checking. Update to keep going.",
-  "minSupportedVersion" : "3.1.1",
+  "message" : "Twinly 3.1.3 moves tasks to MiniMax M3 after the previous model was retired. Update to keep Twinly working.",
+  "minSupportedVersion" : "3.1.3",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "zTxnPMV84RGO7DuB\/8WhHjATAHLEbPnWQT+KJZYDTo+Rcc7mHVLgoXhEj5PFiJOGqJ1q7PJGGBV7utsHXqYsCQ==",
+  "sig" : "myyJmQYw3rsnZsbsN2BkdajkZ5vmPVYABmQz\/KwgfqtCKjxSoYitbObQxAwxLdysOeKEyLvGxYDS\/bNEAs5WCQ==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
