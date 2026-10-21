@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 3.1.5 rebuilds computer use and calls. Update to keep using Twinly.",
-  "minSupportedVersion" : "3.1.5",
+  "message" : "Twinly 4.0 lets you watch Twinly work right in your notch, and it can now work in your own Chrome in the background. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.0",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "HVaz4InscTCoY48J+JY7SVONwzL37hSU4kjnsJwkG4L3LXp7FRrr4bImJB0MvvUQ8NPhyYMmN4MrBQvGSAqzCg==",
+  "sig" : "hhnGYQmup1GiNlHdQcKDlRCQg3n18oSJaXShpG4c0YW1h18RAHXZ2+IkNU0WBq28WQlRAAS3fPAD+2R7jUD\/BQ==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
