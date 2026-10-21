@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 4.0 lets you watch Twinly work right in your notch, and it can now work in your own Chrome in the background. Update to keep using Twinly.",
-  "minSupportedVersion" : "4.0",
+  "message" : "Twinly 4.1.1 shows every text and email before it goes, does real work when you @twinly it in any chat, and knows you on calls. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.1.1",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "hhnGYQmup1GiNlHdQcKDlRCQg3n18oSJaXShpG4c0YW1h18RAHXZ2+IkNU0WBq28WQlRAAS3fPAD+2R7jUD\/BQ==",
+  "sig" : "XygFC62ZppOwLEJuDysYRkoNAm8WqQ4CwIqg4QqtonIFzwPJQ5PbPFmvzu7Npe3s\/POBW7fAwzjHkHWQ7nCMCg==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
