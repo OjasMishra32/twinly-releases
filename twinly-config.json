@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 4.1.1 shows every text and email before it goes, does real work when you @twinly it in any chat, and knows you on calls. Update to keep using Twinly.",
-  "minSupportedVersion" : "4.1.1",
+  "message" : "Twinly 4.1.2 lets your group chat vote on plans, split the bill and lock in invites with @twinly, and opens the Twinly API to your own code. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.1.2",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "XygFC62ZppOwLEJuDysYRkoNAm8WqQ4CwIqg4QqtonIFzwPJQ5PbPFmvzu7Npe3s\/POBW7fAwzjHkHWQ7nCMCg==",
+  "sig" : "tYo8cWEWmHfmiX9c2OaiB21wclw2l9+XHTRnfFcNCpLKUH4Z6EW7E57aNlRymCRvsZgjRk8V7SAYTBlJb9YEBA==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
