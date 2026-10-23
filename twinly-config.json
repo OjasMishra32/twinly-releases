@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 4.1.5 makes calls sound like a person, gets surer on websites, and lets your code stop a task it started. Update to keep using Twinly.",
-  "minSupportedVersion" : "4.1.5",
+  "message" : "Twinly 4.2 opens the Twinly API to everyone and gets smarter on websites and your screen. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.2",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "n3RRBBqjpkqIlvDHjfXhWtDyzoE\/6+U9O6ta0lSjDcNohdp218Cq89hg8utV1JQ9stgnGvVLI5ESTOHZvtfqBw==",
+  "sig" : "LxVRuKZvkBg1acQCUEDRVOf9+IV8jG\/xsWKfnTAvx7vcTqIZudY4r8g7yY7Y0GqL\/pR4DyEz06RNlqWeUthGCQ==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
