@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 4.1.2 lets your group chat vote on plans, split the bill and lock in invites with @twinly, and opens the Twinly API to your own code. Update to keep using Twinly.",
-  "minSupportedVersion" : "4.1.2",
+  "message" : "Twinly 4.1.5 makes calls sound like a person, gets surer on websites, and lets your code stop a task it started. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.1.5",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "tYo8cWEWmHfmiX9c2OaiB21wclw2l9+XHTRnfFcNCpLKUH4Z6EW7E57aNlRymCRvsZgjRk8V7SAYTBlJb9YEBA==",
+  "sig" : "n3RRBBqjpkqIlvDHjfXhWtDyzoE\/6+U9O6ta0lSjDcNohdp218Cq89hg8utV1JQ9stgnGvVLI5ESTOHZvtfqBw==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
