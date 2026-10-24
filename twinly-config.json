@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 4.2.1 makes voice steadier for your code and checks answers built from websites. Update to keep using Twinly.",
-  "minSupportedVersion" : "4.2.1",
+  "message" : "Twinly 4.2.2 lets your twin make several voice notes at once without stopping its voice. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.2.2",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "MiyufDIVHKTIsLTI3WteP8QO8zHIBpIkRRZZvvS\/jdIrDAeok4f3IiSsVvUaevDJS2xkEvodBKEXG2aOTeJCDQ==",
+  "sig" : "KvI0PHRdVfEQZKQ9FNyL8sewYvJcX3iw1AGFgBf7utqxNMt5cWEIjIuLS3XK+CPYK4UIMX9qa\/Ad1UcH8DAfBQ==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
