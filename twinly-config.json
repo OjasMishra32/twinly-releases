@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 4.2 opens the Twinly API to everyone and gets smarter on websites and your screen. Update to keep using Twinly.",
-  "minSupportedVersion" : "4.2",
+  "message" : "Twinly 4.2.1 makes voice steadier for your code and checks answers built from websites. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.2.1",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "LxVRuKZvkBg1acQCUEDRVOf9+IV8jG\/xsWKfnTAvx7vcTqIZudY4r8g7yY7Y0GqL\/pR4DyEz06RNlqWeUthGCQ==",
+  "sig" : "MiyufDIVHKTIsLTI3WteP8QO8zHIBpIkRRZZvvS\/jdIrDAeok4f3IiSsVvUaevDJS2xkEvodBKEXG2aOTeJCDQ==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
