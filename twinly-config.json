@@ -1,9 +1,9 @@
 {
   "killSwitch" : false,
-  "message" : "Twinly 4.2.2 lets your twin make several voice notes at once without stopping its voice. Update to keep using Twinly.",
-  "minSupportedVersion" : "4.2.2",
+  "message" : "Twinly 4.2.3 fixes calls in your voice so your twin answers what people say. Update to keep using Twinly.",
+  "minSupportedVersion" : "4.2.3",
   "mode" : "subscription",
   "reauthAfter" : 1783634923,
-  "sig" : "KvI0PHRdVfEQZKQ9FNyL8sewYvJcX3iw1AGFgBf7utqxNMt5cWEIjIuLS3XK+CPYK4UIMX9qa\/Ad1UcH8DAfBQ==",
+  "sig" : "7O3QundrB8HpanMIzEKo0tELu4K6f197\/9alJ9megeugFa48Yiy5e+o2QChrMBVr\/wJGM+xjtQ1wfnxKPjpYCg==",
   "updateURL" : "https:\/\/github.com\/OjasMishra32\/twinly-releases\/releases\/latest"
 }
